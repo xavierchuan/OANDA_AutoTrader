@@ -32,6 +32,7 @@ OANDA_AutoTrader/
 ├── run.log                # Auto-generated log file
 ├── requirements.txt       # Python dependencies
 └── README.md
+
 ---
 
 ## 🧮 Strategy Logic
@@ -101,5 +102,6 @@ MSc Financial Engineering | University of Birmingham
 
 This project is for educational and research purposes only.
 Use at your own risk. The author takes no responsibility for financial losses caused by live trading.
+
 
 
