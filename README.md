@@ -21,6 +21,7 @@ The system is designed for **quantitative developers** who want to build, test, 
 ---
 
 ## 🧩 Project Structure
+```
 OANDA_AutoTrader/
 │
 ├── engine/
@@ -34,6 +35,7 @@ OANDA_AutoTrader/
 └── README.md
 
 ---
+```
 
 ## 🧮 Strategy Logic
 
@@ -102,6 +104,7 @@ MSc Financial Engineering | University of Birmingham
 
 This project is for educational and research purposes only.
 Use at your own risk. The author takes no responsibility for financial losses caused by live trading.
+
 
 
 
