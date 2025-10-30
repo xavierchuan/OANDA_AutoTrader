@@ -1,4 +1,0 @@
-oandapyV20
-requests
-pandas
-numpy
