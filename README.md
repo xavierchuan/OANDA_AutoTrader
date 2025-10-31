@@ -1,4 +1,4 @@
-# OANDA AutoTrader 🚀  
+# 🧠 OANDA AutoTrader — AI-Powered FX Trading Bot
 _A fully automated FX trading system built with Python and OANDA REST API._  
 
 ## 🧠 Overview  
@@ -102,3 +102,10 @@ The bot will log every signal, trade, and error to `run.log` automatically.
 - Build a backtesting engine for historical evaluation  
 - Connect Telegram / email notifications  
 - Deploy on a VPS for 24/7 autonomous trading
+
+👤 Author
+Xiaochuan Li
+MSc Financial Engineering | University of Birmingham
+📧 xiaochuanformal@gmail.com
+💻 GitHub – xavierchuan
+
