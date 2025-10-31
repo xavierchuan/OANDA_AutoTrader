@@ -2,3 +2,5 @@ oandapyV20
 requests
 pandas
 numpy
+scikit-learn>=1.3
+lightgbm>=4.0
