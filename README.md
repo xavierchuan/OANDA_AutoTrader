@@ -103,9 +103,10 @@ The bot will log every signal, trade, and error to `run.log` automatically.
 - Connect Telegram / email notifications  
 - Deploy on a VPS for 24/7 autonomous trading
 
-👤 Author
+## 👤 Author
 Xiaochuan Li
 MSc Financial Engineering | University of Birmingham
 📧 xiaochuanformal@gmail.com
 💻 GitHub – xavierchuan
+
 
