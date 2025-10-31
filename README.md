@@ -105,8 +105,9 @@ The bot will log every signal, trade, and error to `run.log` automatically.
 
 ## 👤 Author
 Xiaochuan Li
-MSc Financial Engineering | University of Birmingham
-📧 xiaochuanformal@gmail.com
-💻 GitHub – xavierchuan
+- MSc Financial Engineering | University of Birmingham
+- 📧 xiaochuanformal@gmail.com
+- 💻 GitHub – xavierchuan
+
 
 
